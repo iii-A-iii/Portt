@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+f.form-control{
+	padding: 8px; margin-bottom: 10px
+
+}
+.nut{
+	padding: 10px 20px;background-color: orange; color:white;border: oranger; border-radius: 20px;cursor: pointer}
+.nut:hover{
+	background-color: blue}
+.nut-nhap{
+	padding: 10px 20px;background-color: green;color: white;border:green;border-radius: 20px;cusor: pointer}
+.nut-nhap:hover{
+	background-color: red
+}
+
+
+

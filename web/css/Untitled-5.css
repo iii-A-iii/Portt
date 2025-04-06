@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+h4{
+color:#F82629; font-size:50px
+} 
+.tieu-de{
+	color:#36D41D; font-size: 50px; background-color:#5056A2
+}
+.box{ 
+	width: 500px ; height: 300px ; background-color:#FB5F61; border: 1px  #4F1CFF solid; padding: 20px; margin:50px
+}

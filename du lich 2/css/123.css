@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Đây là lệnh khai báo nội dung nằm bên trong khung viền
+
+											/*liền kề*/			/* bo khung viền*/
+
+
+
+*{box-sizing: border-box}
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	color: #666666;
+	margin: 0;
+}
+/*Phan banner*/
+.banner{
+	
+	}
+.img-100{
+	width:100%;
+	height: auto;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+	
+	}
+.header{
+	width:100%; height:60px; background-image: linear-gradient(#ee9ca7,#ffdde1);
+}
+.logo{
+	float:left;
+}
+.menu{
+	float:right;
+	padding-top: 17px;
+}
+.menu a{
+	padding: 10px 20px; text-decoration: none; font-weight: bold; font-size: 17px;color:aliceblue; text-transform:capitalize;
+}
+.menu a:hover{
+	color:#ee9ca7;
+}
+/*xong header*/
+main{
+	width: 100%; min-height: 500px;clear: both;
+}
+.w-25{
+	width:25%; padding: 15px; float:left;
+}
+.border{
+	width: 100%; min-height: 200px; border:1px solid red;margin-bottom: 10px; margin-top: 10px;border-radius: 10px;padding: 10px;text-align: center;
+}
+.bogoc{
+	border-radius: 10px;
+}
+.tour{
+	color:#b92b27; font-size: 19px; font-weight: bold; 
+}
+.gia{
+	color:#FF0099;font-size: 16px;
+}
+footer{
+	width: 100%; height: auto; background-image:linear-gradient(#ee9ca7,#ffdde1);
+		clear:both;color:white; line-height: 40px; text-align: center;font-weight: bold
+}
+.w-40{
+	width: 40%; height: auto; padding: 15px; float: left
+}
+.lien-he{
+	color: red; font-weight: bold
+}
+.form-control{
+	padding: 8px; margin-bottom: 10px; color: #2A2828; font-weight: bold;
+}
+.nut-nhap{
+	padding: 10px  20px; background-color: #e93c74; color: aliceblue;; border: pink; border-radius: 10px; cursor: pointer
+}
+.w-60{
+	width: 60%; padding: 15px; float: left
+}
+.vien-xam{
+	width: 100%; min-height: 300px; border: 1px solid gray; border-radius: 10px;padding: 10px;margin-bottom: 15px
+}
+	
+	
+	

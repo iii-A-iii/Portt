@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{boder-sizing: border-box}
+.body{
+	
+	font-family: "gotham", "Heveltical Nue", "hevetical","arial", "sans-serif"; font-size: 16px; color:#666666; margin: 0 
+}
+
+.img-100{
+	width: 100%; height: auto
+}
+.tieu-de{
+	width: 90%;  magrgin: 0 auto; clear: both
+}
+.lien{
+	margin-top:50px 
+}
+
+.container{
+	width: 80%; margin: 0 auto
+}
+.header{
+	width: 100%; height: 60px; background-color: #9E0F0F
+}
+
+.logo{
+	float: left
+}
+.menu{
+	float: right; padding-top: 20px; 
+}
+.menu a{
+	padding:10px 20px; text-decoration: none; font-weight: 600; font-size: 17px; text-transform: capitalize; color: white
+}
+.bannermenu hover{
+	color:#DEE45D
+}
+.main{
+	width: 100%; min-height: 600px; clear: both
+}
+w-26{
+	width: 25%; padding: 15px;float: left
+}
+
+.w-25{
+	width: 35%; padding: 15px;float: left
+}
+.vien{
+	width: 100%; border: 1px solid; color: #D666666; border-radius: 10px; padding: 1px; margin-top: 50px; text-align: left; margin-bottm: 5px
+}
+.bo-goc{
+	border-radius: 10px
+}
+.tour{
+	color: #000000; font-size: 19px; margin-left: 20px
+}
+.gia{
+	color: #D31C1F; font-weight: bold
+}
+.footer{
+	width: 100%; height: 40px;background-color: #BB1215; color: white; font-weight: bold; clear: both; text-align: center; line-height: 3
+}
+	
+	
+	
+	
+	
+	

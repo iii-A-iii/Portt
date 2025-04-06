@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+*{box-sizing: boborder-box}
+.container{
+	width: 1000px;
+	margin: auto
+}
+.header{
+	min-height: 120px;
+	background: #CCC;
+}
+.banner{
+	min-height: 400px;
+	background: #FCC;
+}
+.sidebar{
+	width: 25%;
+	float: left;
+	min-height: 500px;
+	background: #FC6;
+}
+.content{
+	width:75%;
+	float: left;
+	min-height: 500px;
+	background: #09C;
+}
+.footer{
+	min-height: 200px;
+	background: #666;
+	clear: both;
+}
